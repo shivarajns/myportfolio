@@ -205,24 +205,29 @@ li:hover {
 }
 
 /* Skills Section CSS */
-#Skills{
+#Skills {
   width: 100%;
-  max-height: 100vh;
+  height: 100vh;
   margin: 0;
   background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.Skills-main-cnt{
+
+.Skills-main-cnt {
   width: 95vw;
-  height: 100vh;
-  margin-top: 50px;
   color: white;
-  padding-top: 60px;
+  text-align: center;
 }
-.skills-cnt-one{
-  height: auto;
-  font-size: 1.4rem;
+
+.skills-cnt-one {
+  font-size: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem;
 }
-#change{
+
+#change {
   color: red;
   font-weight: bold;
 }
