@@ -203,31 +203,3 @@ li:hover {
   }
 
 }
-
-/* Skills Section CSS */
-#Skills {
-  width: 100%;
-  height: 100vh;
-  margin: 0;
-  background-color: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.Skills-main-cnt {
-  width: 95vw;
-  color: white;
-  text-align: center;
-}
-
-.skills-cnt-one {
-  font-size: 2rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding: 1rem;
-}
-
-#change {
-  color: red;
-  font-weight: bold;
-}
