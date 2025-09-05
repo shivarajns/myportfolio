@@ -1,7 +1,7 @@
 import React from 'react';
 import BGVideo from './assets/Videos/BGVideo.mp4';
 import ProfilePicture from './assets/images/ProfilePicture.png'
-import resume from './assets/Files/ShivarajuNS_Resume IT.pdf'
+import resume from './assets/Files/ShivarajuNS_Resume_IT.pdf'
 function Home() {
 
 
