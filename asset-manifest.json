@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.9c5a7e4e.css",
-    "main.js": "/myportfolio/static/js/main.805699da.js",
+    "main.css": "/myportfolio/static/css/main.c7e5a605.css",
+    "main.js": "/myportfolio/static/js/main.91b5b49c.js",
     "static/js/453.b06fd736.chunk.js": "/myportfolio/static/js/453.b06fd736.chunk.js",
     "static/media/BGVideo.mp4": "/myportfolio/static/media/BGVideo.12b664b6fb82c3bf1af4.mp4",
     "static/media/ProfilePicture.png": "/myportfolio/static/media/ProfilePicture.a0063b3e08946dde1520.png",
+    "static/media/Weatherproject.png": "/myportfolio/static/media/Weatherproject.74f8104db46763a0711d.png",
     "static/media/ShivarajuNS_Resume_IT.pdf": "/myportfolio/static/media/ShivarajuNS_Resume_IT.34ba97434f54c4cfe8b0.pdf",
+    "static/media/Weatherproject2.png": "/myportfolio/static/media/Weatherproject2.18d3a594594d1ee4c4c0.png",
+    "static/media/Weatherproject3.png": "/myportfolio/static/media/Weatherproject3.3868b0a0cf40a50781e1.png",
     "static/media/github.png": "/myportfolio/static/media/github.e7a4cb465338fa3e8d66.png",
     "static/media/react.png": "/myportfolio/static/media/react.28f5344ad26042e9795b.png",
     "index.html": "/myportfolio/index.html",
-    "main.9c5a7e4e.css.map": "/myportfolio/static/css/main.9c5a7e4e.css.map",
-    "main.805699da.js.map": "/myportfolio/static/js/main.805699da.js.map",
+    "main.c7e5a605.css.map": "/myportfolio/static/css/main.c7e5a605.css.map",
+    "main.91b5b49c.js.map": "/myportfolio/static/js/main.91b5b49c.js.map",
     "453.b06fd736.chunk.js.map": "/myportfolio/static/js/453.b06fd736.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c5a7e4e.css",
-    "static/js/main.805699da.js"
+    "static/css/main.c7e5a605.css",
+    "static/js/main.91b5b49c.js"
   ]
 }
