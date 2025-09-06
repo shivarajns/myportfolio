@@ -210,46 +210,37 @@ li:hover {
   height: 100vh;
   background-color: black;
 }
-
-#Skills-main-cont{
+.Skills-main-container{
   width: 100%;
   height: 100%;
-  padding: 10px;
-  padding-top: 70px;
-  display: inline-flex;
-  align-items: center;
-  flex-direction: column;
-  gap: 10px;
+  padding-top: 60px;
+  
 }
-.Skills-headings{
-  font-size: 2rem;
-  color: white;
-}
-.skills-cont-one{
+.card-container{
   width: 100%;
-  height: 200px;
-  display: inline-flex;
+  height: 70%;
+  background-color: black;
+  display:flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 40px;
+  gap: 15px;
 }
 
-.skills-cont-one img{
-  width: 130px;
-  height: 130px;
-}
-.Design-cont{
-  width: 200px;
-  height: 200px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content:center ;
-  gap: 5px;
-}
 
-.Design-cont p {
-  font-size: 1.2rem;
-  font-weight: bold;
+.skills-card{
+  width: 120px;
+  height: 28%;
+  background-color: rgb(44, 44, 46);
+  border-radius: 15px;
+  padding: 8px;
   color: white;
+  display:flex ;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skills-card img{
+  width: 80px;
+  height: 80px;
 }
