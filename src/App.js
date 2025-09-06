@@ -1,6 +1,6 @@
 import Navbar from "./navBar";
 import Home from "./Home";
-
+import Skills from './skills.js'
 
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
     <>
       <Navbar />
       <Home />
+      <Skills/>
     </>
   );
 }

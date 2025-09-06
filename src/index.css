@@ -203,3 +203,53 @@ li:hover {
   }
 
 }
+
+
+#Skills{
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+
+#Skills-main-cont{
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  padding-top: 70px;
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.Skills-headings{
+  font-size: 2rem;
+  color: white;
+}
+.skills-cont-one{
+  width: 100%;
+  height: 200px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+.skills-cont-one img{
+  width: 130px;
+  height: 130px;
+}
+.Design-cont{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center ;
+  gap: 5px;
+}
+
+.Design-cont p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+}
