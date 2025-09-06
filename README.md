@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! 🎉  
 This project showcases my skills, projects, and experience as a **Java Backend Developer | React Enthusiast | Tech Learner**.  
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:**  https://shivarajns.github.io/myportfolio/
 
 ---
 
